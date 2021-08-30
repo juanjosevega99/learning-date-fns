@@ -8,6 +8,10 @@ const es = require('date-fns/locale/es');
 const today = new Date();
 const todayFormat = format(today, 'yyyy/MM/dd');
 
+const dateWork = format(today, 'MM/dd/yyyy HH:mm:ss');
+console.log("🚀 ~ file: index.js ~ line 12 ~ dateWork", dateWork)
+
+
 console.log('🚀 ~ file: index.js ~ line 5 ~ todayFormat', todayFormat);
 console.log(formatDistance(new Date(2021, 1, 1), today));
 
