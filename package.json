@@ -1,0 +1,11 @@
+{
+  "name": "learning-date-fns",
+  "version": "1.0.0",
+  "description": "Learning Date-fns",
+  "main": "index.js",
+  "author": "Juan Jose Vega",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.23.0"
+  }
+}
