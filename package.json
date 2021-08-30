@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Learning Date-fns",
   "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
   "author": "Juan Jose Vega",
   "license": "MIT",
   "dependencies": {
